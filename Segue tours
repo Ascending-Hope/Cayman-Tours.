@@ -1,0 +1,27 @@
+<section class="tours"> 
+  <h2>Tour Locations</h2>
+
+  <div class="location">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Pedro_St._James_Castle%2C_Grand_Cayman.jpg" alt="Pedro St. James Castle">
+    <h3>7:00 AM – Pedro St. James Castle</h3>
+    <p>Pedro St. James, built in 1780, stands as the cradle of Cayman democracy. Visitors start their morning here, soaking in colonial architecture and vibrant history.</p>
+  </div>
+
+  <div class="location">
+    <img src="https://www.visitcaymanislands.com/getmedia/44e05a91-7abf-4f47-95f4-1ef8fe684e90/National-Museum.jpg" alt="Cayman Islands National Museum">
+    <h3>12:00 PM – Cayman Islands National Museum</h3>
+    <p>At the heart of George Town, the National Museum anchors the midday tour. Guests dive into Cayman’s seafaring heritage and folk traditions.</p>
+  </div>
+
+  <div class="location">
+    <img src="https://www.caymancompass.com/wp-content/uploads/2020/02/Mission-House.jpg" alt="Mission House Bodden Town">
+    <h3>3:00 PM – Mission House, Bodden Town</h3>
+    <p>The Mission House echoes stories of 19th-century missionaries and educators. Afternoon tours bring its quiet charm and reflective spaces to life.</p>
+  </div>
+
+  <div class="location">
+    <img src="https://thebeach.com/wp-content/uploads/2020/09/heritage-beach.jpg" alt="Heritage Beach East End">
+    <h3>6:00 PM – Heritage Beach, East End</h3>
+    <p>Heritage Beach offers storytelling by the shore as the sun sets—an authentic look at Cayman islander life and folklore.</p>
+  </div>
+</section>
