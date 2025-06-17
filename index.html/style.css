@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cayman Islands Heritage Tours</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Cayman Islands Heritage Tours</h1>
+    <p>Explore the cultural, historic, and social heart of the islands</p>
+  </header>
+
+  <section class="tours">
+    <h2>Tour Locations</h2>
+
+    <div class="location">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Pedro_St._James_Castle%2C_Grand_Cayman.jpg" alt="Pedro St. James Castle">
+      <h3>7:00 AM – Pedro St. James Castle</h3>
+      <p>Pedro St. James, built in 1780, stands as the cradle of Cayman democracy. Visitors start their morning here, soaking in colonial architecture and vibrant history.</p>
+    </div>
+
+    <div class="location">
+      <img src="https://www.visitcaymanislands.com/getmedia/44e05a91-7abf-4f47-95f4-1ef8fe684e90/National-Museum.jpg" alt="Cayman Islands National Museum">
+      <h3>12:00 PM – Cayman Islands National Museum</h3>
+      <p>At the heart of George Town, the National Museum anchors the midday tour. Guests dive into Cayman’s seafaring heritage and folk traditions.</p>
+    </div>
+
+    <div class="location">
+      <img src="https://www.caymancompass.com/wp-content/uploads/2020/02/Mission-House.jpg" alt="Mission House Bodden Town">
+      <h3>3:00 PM – Mission House, Bodden Town</h3>
+      <p>The Mission House echoes stories of 19th-century missionaries and educators. Afternoon tours bring its quiet charm and reflective spaces to life.</p>
+    </div>
+
+    <div class="location">
+      <img src="https://thebeach.com/wp-content/uploads/2020/09/heritage-beach.jpg" alt="Heritage Beach East End">
+      <h3>6:00 PM – Heritage Beach, East End</h3>
+      <p>Heritage Beach offers storytelling by the shore as the sun sets—an authentic look at Cayman islander life and folklore.</p>
+    </div>
+
+  </section>
+
+  <footer>
+    <p>Contact us at <a href="mailto:tour@caymanheritage.com">tour@caymanheritage.com</a></p>
+  </footer>
+</body>
+</html>
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background-color: #0077b6;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.tours {
+  padding: 2rem;
+}
+
+.location {
+  background: white;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 10px;
+  max-width: 800px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.location img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.location h3 {
+  color: #0077b6;
+  margin-top: 1rem;
+}
+
+footer {
+  background-color: #003049;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+footer a {
+  color: #ffd166;
+  text-decoration: none;
+}
